@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd29d76673D55072BC6bc106cd159e1650c6f899E",
+  "SCAN_LINK": "https://ropsten.etherscan.io/address/0xd29d76673D55072BC6bc106cd159e1650c6f899E",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 3
+  },
+  "NFT_NAME": "FRN EYE",
+  "SYMBOL": "FE",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/FRN-EYE",
+  "SHOW_BACKGROUND": true
+}
